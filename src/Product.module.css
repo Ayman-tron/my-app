@@ -1,0 +1,14 @@
+.product {
+  padding: 30px;
+  margin: 15px;
+  border: 0.5px solid red;
+}
+
+.error {
+  color: red;
+  font-weight: bolder;
+}
+
+.price {
+  color: green;
+}
